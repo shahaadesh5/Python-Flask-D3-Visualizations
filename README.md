@@ -10,3 +10,11 @@ Frontend has the necessary files to fetch data from backend and visualize it usi
 Apache server is required to run frontend files (due to D3 library). You can use any Apache server environment like Wamp, xampp etc.
 
 Make sure server is running to fetch data into frontend.
+
+## Radviz Visualization before clustering:
+
+![alt text](https://raw.githubusercontent.com/shahaadesh5/Python-Flask-D3-Visualizations/master/screenshots/visualization.PNG)
+
+## Radviz Visualization after clustering:
+
+![alt text](https://raw.githubusercontent.com/shahaadesh5/Python-Flask-D3-Visualizations/master/screenshots/visualization2.PNG)
